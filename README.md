@@ -54,11 +54,6 @@
 - .NET Framework 4.7.2+ (if any .NET components are used)  
 - Administrator privileges for full functionality
 
-## Security
-
-- The tool uses self-checks and optional digital signing to ensure file integrity.  
-- Packed with UPX to reduce size (note: UPX-packed files can be unpacked with UPX).
-
 ## Contributing
 
 This repository is open for contributions. You can submit improvements, bug fixes, or optimizations via pull requests.
