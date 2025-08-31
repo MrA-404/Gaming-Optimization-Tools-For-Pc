@@ -2,7 +2,7 @@
 
 **Best PC Optimizer** is a lightweight all-in-one Windows optimization tool designed to speed up your PC, clean unnecessary files, boost gaming performance, and protect privacy.  
 
-[PC Optimizer ](https://media.discordapp.net/attachments/1161669991758835742/1411850900481380382/Gemini_Generated_Image_ra62osra62osra62.png)
+
 
 ![PC Optimizer Option](https://github.com/MrA-404/Gaming-Optimization-Tools-For-Pc/blob/main/all%20Option.png)
 
