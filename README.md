@@ -1,6 +1,3 @@
-Here’s your README.md updated with a note about running as admin and cleaned up for clarity:
-
----
 
 # Best PC Optimizer
 
